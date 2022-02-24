@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Coleman's legacies, or, A Discovery of popish malice with ample cautions to beware of dangerous seducers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51013</idno>
+            <idno type="STC">Wing M2258</idno>
+            <idno type="STC">ESTC R41525</idno>
+            <idno type="EEBO-CITATION">31355501</idno>
+            <idno type="OCLC">ocm 31355501</idno>
+            <idno type="VID">110502</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51013)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110502)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1747:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Coleman's legacies, or, A Discovery of popish malice with ample cautions to beware of dangerous seducers.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>"With allowance."</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  England.</term>
+               <term>Popish Plot, 1678 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110502:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <p>Mr. Coleman's LEGACIES OR, A DISCOVERY OF POPISH MALICE; WITH AMPLE CAUTIONS To beware of Dangerous Seducers.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>D. M.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:110502:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>Mr. Coleman's LEGACIES OR, A DISCOVERY OF POPISH MALICE.</head>
+            <l>DEAR Country, where my Infant Breath I drew,</l>
+            <l>Thy Int'reſt once I eager did purſue;</l>
+            <l>Employ'd my Thoughts, and ſo compell'd my Will</l>
+            <l>To be obedient to thy Dictates ſtill:</l>
+            <l>Serious in nothing but what juſt might prove</l>
+            <l>To ſettle Friendſhip, and Eternal Love:</l>
+            <l>Bound in my Conſcience to protect thy Cauſe,</l>
+            <l>The which long ſtarted at the breach of Laws;</l>
+            <l>Diſowning baſeneſs, and all private Sin,</l>
+            <l>That ope's the Soul and lets black Treaſons in.</l>
+            <l>Ah! —had I but ſo happy been to know</l>
+            <l>That Bliſsful State, and to continue ſo:</l>
+            <l>Free had I been, as Nature could afford,</l>
+            <l>Protected by great Juſtice's awful Sword,</l>
+            <l>The which now Fate turns on me; I muſt feel</l>
+            <l>The weighty preſſure of offended Steel,</l>
+            <l>Breath'd from deſtructive Air, the cruel Guilt</l>
+            <l>For which my Blood muſt be ſo juſtly ſpilt:</l>
+            <l>Air breath'd from <hi>Rome,</hi> pernicious Tempeſts roll,</l>
+            <l>To blaſt with Mildews, ſpot the candid Soul</l>
+            <l>With laſting ſtains; make it more vile than he,</l>
+            <l>Who counts himſelf on Earth a Deity:</l>
+            <l>Compos'd of Duſt, yet arrogates the name</l>
+            <pb n="3" facs="tcp:110502:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <l>Of him who rules the Univerſal Frame;</l>
+            <l>Deceiving mortals with a fond conceit,</l>
+            <l>That murders will promote 'em, make 'em great,</l>
+            <l>But the Deſign is to ſupport his Seat;</l>
+            <l>The which on ſeven high Mountains plac'd there Waits</l>
+            <l>The Triple Siſters on the Triple Fates,</l>
+            <l>Pride, Treaſon, Envy, and a thouſand more,</l>
+            <l>Attend his Courts; of which pernicious ſtore</l>
+            <l>He ſends abroad dire Troops throughout the World,</l>
+            <l>Made fit for miſchief, and like Torches hurl'd</l>
+            <l>In mighty Piles, breed dangers where they come,</l>
+            <l>And vex the Nations with Commands from <hi>Rome;</hi>
+            </l>
+            <l>Denouncing Purgatory and the Fire.</l>
+            <l>Where Active Spirits work and never tire,</l>
+            <l>Till mony frees 'em, or they there muſt ſtay,</l>
+            <l>Till <hi>Plato</hi>'s year of <hi>Jubile</hi> makes way</l>
+            <l>For their releaſements: This did I believe</l>
+            <l>Till kinder Heaven did kindly undeceive,</l>
+            <l>And made me ſenſible of my Eſtate,</l>
+            <l>How I ſtood tott'ring on the brink of Fate,</l>
+            <l>By undermining Prieſts was prompted too</l>
+            <l>The cruell'ſt things that wretched man could do;</l>
+            <l>All dangerous Ills, wing'd with the fouleſt Crimes,</l>
+            <l>That thoughts can center at, or blackeſt Times</l>
+            <l>Expoſe to mortal Eyes, or bring to light,</l>
+            <l>Hatch'd in the ſhades of everlaſting Night;</l>
+            <l>'Twas my intent to put in practice all,</l>
+            <l>But dreadful ſins on the Promoters fall;</l>
+            <l>Pounding to Attoms thoſe who ſtrive to raiſe</l>
+            <l>The bailful Engins, and extincts their days;</l>
+            <l>For Kings are Heavens great Vice-roys, and that God</l>
+            <l>Who gave them Pow'r defends them with his Rod:</l>
+            <l>The Sacred Name of Majeſty's Divine,</l>
+            <l>A God compacted in a mortal Shrine:</l>
+            <l>In vain are Plots, in vain Conſpiracies,</l>
+            <l>
+               <hi>Rome</hi> vainly vaunts of bearing Heavenly Keys;</l>
+            <l>Celeſtial! no—for why ſhe oft miſtakes</l>
+            <l>Them for the Keys that ope' Infernal Lakes,</l>
+            <l>From whence ſuch ſwarms of deadly Locuſts flye,</l>
+            <l>Whoſe dusky Wings obſcure the clearing Skye;</l>
+            <l>Devour the Nations, and with Poyſon-ſtings,</l>
+            <l>Corrupt the Scriptures, life Eternal ſprings;</l>
+            <l>Such have in thee, O <hi>Brittiſh</hi> Iſland, made</l>
+            <l>Diſſention, Murders, and had all betray'd;</l>
+            <pb n="4" facs="tcp:110502:3"/>
+            <!-- PDF PAGE 6 -->
+            <l>Had Mercy not the Fatal Act deny'd,</l>
+            <l>And turn'd the deadly Arrows in their ſide;</l>
+            <l>Preſerv'd the guiltleſs, and the guilty found:</l>
+            <l>Witneſs my ſelf, in dangerous Miſchiefs drown'd,</l>
+            <l>Muſt ſuffer juſtly, juſtly doom'd muſt dye,</l>
+            <l>For Crimes deſerving more, if more can be;</l>
+            <l>And likewiſe all thoſe cruelmen that ſtrive</l>
+            <l>To ruine Nations, muſt at laſt arrive</l>
+            <l>To like diſgraceful Ends, Rewards for thoſe</l>
+            <l>Who Trade in miſchief, or with Treaſon cloſe.</l>
+            <l>
+               <hi>Monks, Jeſuits,</hi> and all the wretched Train!</l>
+            <l>O ſhun ſuch crafty men, who ſtrive to Reign</l>
+            <l>And Lord it or'e the Conſciences of men,</l>
+            <l>To bring them into Slavery agen;</l>
+            <l>Worſe then <hi>Egyptian</hi>-bondage, worſe then all</l>
+            <l>That did in <hi>Egypt Jacob</hi>'s Sons befall.</l>
+            <l>Nay worſe then <hi>Babyloniſh</hi> Tyrants, they</l>
+            <l>Firſt ſeiſe, and then inſult upon the Prey:</l>
+            <l>With ſmooth pretexts lead ſimple Souls aſide,</l>
+            <l>And make 'em then the Trophies of their Pride:</l>
+            <l>Therefore beware of ſuch, leſt after-times</l>
+            <l>Shou'd haunt your Conſcience with Eternal Crimes.</l>
+            <l>Bluſh not at admonition, but beware,</l>
+            <l>Leſt you're intangl'd in the ſelf ſame Snare</l>
+            <l>That is my lot, when all the Prieſts of <hi>Rome,</hi>
+            </l>
+            <l>Have not the Power to ſave you from the doom</l>
+            <l>So juſtly paſs'd, no nor themſelves ſecure</l>
+            <l>From dangers that their Fatal Prides inure.</l>
+            <l>Therefore my Friends, whoe're you are, take heed</l>
+            <l>That you no farther do in Ills proceed;</l>
+            <l>Leſt you a wretched Expiation make,</l>
+            <l>And with me juſtly my Reward partake.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
